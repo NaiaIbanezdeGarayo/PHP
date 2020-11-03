@@ -1,5 +1,5 @@
 <?php
-    $ndia = $_GET("ndia");
+    $ndia = $_GET["ndia"];
 
     function semana($ndia){
         switch ($ndia){
